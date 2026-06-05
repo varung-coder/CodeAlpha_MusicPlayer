@@ -13,8 +13,7 @@
 
 ## 🚀 Live Demo
 
-Experience the live application here:  
-👉 **[PulseBeat Live Demo](https://varung-coder.github.io/CodeAlpha_MusicPlayer/)**
+Experience the live application here: https://varung-coder.github.io/CodeAlpha_MusicPlayer/
 
 ## ✨ Key Features
 
